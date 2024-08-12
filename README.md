@@ -2,7 +2,7 @@
 
 Este projeto consiste em um relógio que pode ser exibido tanto em formato analógico quanto digital, desenvolvido utilizando *JavaScript, **HTML, e **CSS*.
 
-<img src="img-relogio.png" alt="imagem_readme>
+<img src="img-relogio.png" alt="imagem_readme">
 
 ## Funcionalidades
 
