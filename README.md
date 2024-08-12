@@ -1,6 +1,7 @@
 # Projeto de Relógio Analógico e Digital
 
-Este projeto consiste em um relógio que pode ser exibido tanto em formato analógico quanto digital, desenvolvido utilizando *JavaScript, **HTML, e **CSS*.
+Este projeto consiste em um relógio que pode ser exibido tanto em formato analógico quanto digital, desenvolvido utilizando JavaScript, HTML, e CSS.
+
 
 <img src="img-relogio.png" alt="imagem_readme">
 
@@ -20,7 +21,7 @@ Este projeto consiste em um relógio que pode ser exibido tanto em formato anal�
 1. Faça o download ou clone este repositório.
 2. Abra o arquivo index.html em seu navegador preferido.
 3. O relógio será carregado e exibido na tela, com a opção de alternar entre os modos analógico e digital.
-4. Você pode acessar o projeto clicando aqui 
+4. Você pode acessar o projeto [clicando aqui](https://thainasantoss.github.io/projeto-relogio-analogico/)
 
 ## Estrutura de Arquivos
 
@@ -31,5 +32,3 @@ Este projeto consiste em um relógio que pode ser exibido tanto em formato anal�
 ## Contribuições
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests com melhorias, correções de bugs ou novas funcionalidades.
-
----
